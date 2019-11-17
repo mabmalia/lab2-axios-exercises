@@ -1,0 +1,19 @@
+body {
+  padding-top: 56px;
+}
+
+img.thumbnail-small {
+  width: 48px;
+}
+
+img.thumbnail-medium {
+  width: 128px;
+}
+
+.input-help {
+  min-height: 1.2rem;
+}
+
+#currency {
+  max-width: 140px;
+}
